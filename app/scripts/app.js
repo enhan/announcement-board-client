@@ -15,6 +15,7 @@ app.config(function ($stateProvider, $urlRouterProvider) {
         templateUrl: "views/home.html"
     }).state("announcements", {
         url: "/announcements",
-        templateUrl: "views/announcements.html"
+        templateUrl: "views/announcements.html",
+        controller: 'AnnouncementsCtrl'
     });
 });

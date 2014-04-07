@@ -1,0 +1,14 @@
+{
+    "note": "",
+    "mockDirectory": "./mock",
+    "quiet": false,
+    "port": "7878",
+    "latency": 50,
+    "webServices": {
+        "api/announcements": {
+            "mockFile": "announcements.json",
+            "latency": 20,
+            "verbs": ["get"]
+        }
+    }
+}

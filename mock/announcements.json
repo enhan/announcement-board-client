@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "title": "Developer needed",
+        "content" : "I am looking for a talented Scala developer to work with me and build a startup.",
+        "by": "Jon Snow"
+    },
+    {
+        "id": 1,
+        "title": "Canon camera",
+        "content" : "As I am moving to Canon, I sell my Pentax device.",
+        "by": "Eddard Stark"
+    },
+    {
+        "id": 2,
+        "title": "Rent a room",
+        "content" : "My house has a spare room. Roomate wanted",
+        "by": "Jamie Lanister"
+    }
+]
